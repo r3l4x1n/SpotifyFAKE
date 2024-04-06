@@ -1,0 +1,17 @@
+.container__canciones{
+    color: rgb(26, 32, 26);
+}
+
+
+.banner{
+    background: url('https://media.istockphoto.com/id/1314616897/photo/3d-render-abstract-urban-futuristic-background-cityscape-with-neon-light-starry-night-sky-and.webp?b=1&s=170667a&w=0&k=20&c=aYge2voeGjIUVZgoSScHw0xVDklbL1PFfoqZVkBGuEU=');
+    padding: 25%;
+    opacity: 0.7;
+    filter: blur(8px);
+ 
+
+  background-size: cover;
+}
+.container__home{
+    color: rgb(113, 113, 197);
+}

@@ -1,0 +1,16 @@
+.banner{
+  background-image: url('../../assets/banner.jpg');
+  padding: 25%;
+}
+
+.container__home{
+  color: blue;
+}
+
+.contenedor_home_artistas{
+border: solid 5px rgb(15, 158, 91);
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+width: 100%;
+}
